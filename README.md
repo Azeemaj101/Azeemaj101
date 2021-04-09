@@ -18,8 +18,8 @@
 
 <br />
 <br />
-```
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Muhammad Azeem" /> </p>
+
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Muhammad Azeem" /> </p>
 ## Technologies Stack
 
 ```json
@@ -32,4 +32,4 @@
    "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
 }
 ```
-```
+-->
