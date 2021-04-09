@@ -2,24 +2,12 @@
 
 <!--
 **Azeemaj101/Azeemaj101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### Hi there, I'm Saad 👋
+-->### Hi there, I'm Azeem 👋
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer
-- 🌱 I’m currently learning Competitive-coding, Android development and System Design
-- 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Competitive-coding.
+- 🥅 2021 Goals: ML and DP
 
 ### Connect with me:
 
@@ -46,5 +34,4 @@ Here are some ideas to get you started:
    "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
 }
 ```
-<img align="left" alt="Saad Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&hide_border=true" />
 
