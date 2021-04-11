@@ -14,7 +14,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azeemaj101/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/azeemaj101/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@azeemaj101)
-![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=followers&style=social)
+![GitHub followers](https://azeemaj101.github.io/Followers/)
 
 <br />
 <br />
