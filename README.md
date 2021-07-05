@@ -1,35 +1,79 @@
-<!--
-**Azeemaj101/Azeemaj101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->### Hi there, I'm Azeem 👋
+# Hi there, I'm Azeem 👋
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, Web-Development, Web-Automation.
 - 🥅 2021 Goals: ML and DL.
 
-### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:azeemaj101@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40azeemaj101)](https://twitter.com/azeemaj101)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azeemaj101/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/azeemaj101/)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@azeemaj101)
-![GitHub followers](https://camo.githubusercontent.com/bf5c972dec2a30b2d3780d032c83821ce6c15d05aaa9ff7483b1c42c8e35dabe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7361616468617878616e3f6c6162656c3d666f6c6c6f77657273267374796c653d736f6369616c)
 
-<br />
-<br />
+<h2><i>💻 Tech Stack</i></h2>
 
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Muhammad Azeem" /> </p>
-## Technologies Stack
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" height="80" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/61928905/124451275-12e87d00-dd3a-11eb-898a-7726dcc09197.png" height="80" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="80" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" height="60" width="100">
+    </td>
+    <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/61928905/124452556-57284d00-dd3b-11eb-910c-1f0dde7f5cdc.png" height="90" width="100">
+    </td>
+</tr>
+<tr>
+       <td align='center'>
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="80" height="80">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="90" height="80">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="100">
+    </td>
+    <td align='center'>
+        <img src="https://user-images.githubusercontent.com/61928905/124452385-3102ad00-dd3b-11eb-9bc1-6de14830d0b2.png" width="60" height="100">
+    </td>
+</tr>
+   <tr>
+       <td align='center'>
+        <img src="https://user-images.githubusercontent.com/61928905/124453236-07965100-dd3c-11eb-99b7-40901d6692e1.png" width="100" height="100">
+    </td>
+    <td align='center'>
+        <img src="https://user-images.githubusercontent.com/61928905/124453353-2399f280-dd3c-11eb-929e-feeaac4506a4.png" width="100" height="100">
+    </td>
+</tr>
+</table>
+<br/>
+<br/>
 
-```json
-{
-   "languages": ["JS/TS", "Python", "Java/Kotlin", "C/C++"],
-   "backend": ["NodeJS", "Django", "Flask" ,"ROR","Managed Cloud Services in AWS/Azure"],
-   "frontend": ["Angular/Material", "React/Redux", "HTML/CSS"],
-   "databases": ["Mongodb", "Firebase", "Mysql", "Postgresql"],
-   "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
-   "other skills":["Cloud Technologies (Docker/K8s)", "CI/CD Pipelines", "Network Protocols & Programming", "Competitive Programming"]
-}
-```
--->
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+ <a href="https://www.ajweb.tk"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/azeemaj101/"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="Azeemaj101@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/azeemaj101/"><img src="https://img.shields.io/badge/-@azeemaj101-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/Azeemaj101"><img src="https://img.shields.io/badge/-@azeemaj101-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<br/>
+<br/>
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/azeemaj101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeemaj101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azeemaj101&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemaj101&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
