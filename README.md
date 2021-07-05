@@ -64,6 +64,7 @@
 <a href="mailto:Azeemaj101@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 <br/>
