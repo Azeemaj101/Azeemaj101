@@ -5,48 +5,48 @@
 - 🌱 I’m currently learning Competitive-coding, Web-Development, Web-Automation.
 - 🥅 2021 Goals: ML and DL.
 
-
+<br/>
 
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" height="80" width="80">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" height="100" width="100">
     </td>
     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/61928905/124451275-12e87d00-dd3a-11eb-898a-7726dcc09197.png" height="80" width="80">
+        <img src="https://user-images.githubusercontent.com/61928905/124451275-12e87d00-dd3a-11eb-898a-7726dcc09197.png" height="100" width="100">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="80" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="100" width="100">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" height="60" width="100">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" height="70" width="120">
     </td>
     <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/61928905/124452556-57284d00-dd3b-11eb-910c-1f0dde7f5cdc.png" height="90" width="100">
+        <img src="https://user-images.githubusercontent.com/61928905/124452556-57284d00-dd3b-11eb-910c-1f0dde7f5cdc.png" height="100" width="120">
     </td>
 </tr>
 <tr>
        <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="80" height="80">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="100" width="100">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="90" height="80">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="120" height="100">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" height="100" width="100">
     </td>
     <td align='center'>
-        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="100">
+        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="100" width="100">
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/61928905/124452385-3102ad00-dd3b-11eb-9bc1-6de14830d0b2.png" width="60" height="100">
+        <img src="https://user-images.githubusercontent.com/61928905/124452385-3102ad00-dd3b-11eb-9bc1-6de14830d0b2.png" width="100" height="100">
     </td>
 </tr>
    <tr>
        <td align='center'>
-        <img src="https://user-images.githubusercontent.com/61928905/124453236-07965100-dd3c-11eb-99b7-40901d6692e1.png" width="100" height="100">
+        <img src="https://user-images.githubusercontent.com/61928905/124466483-8e065f00-dd4b-11eb-98bb-40155450d148.png" width="100" height="100">
     </td>
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/61928905/124453353-2399f280-dd3c-11eb-929e-feeaac4506a4.png" width="100" height="100">
