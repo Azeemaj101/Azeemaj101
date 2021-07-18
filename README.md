@@ -54,6 +54,9 @@
        <td align='center'>
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" width="150" height="70">
     </td>
+       <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="150" height="70">
+    </td>
 </tr>
 </table>
 <br/>
