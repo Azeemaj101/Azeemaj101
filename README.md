@@ -75,7 +75,7 @@
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="M.Azeem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" /> </p>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
