@@ -57,6 +57,9 @@
        <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="150" height="70">
     </td>
+       <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="150" height="70">
+    </td>
 </tr>
 </table>
 <br/>
