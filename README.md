@@ -61,6 +61,11 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="150" height="70">
     </td>
 </tr>
+       <tr>
+       <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="125" height="100">
+    </td>
+</tr>
 </table>
 <br/>
 <br/>
