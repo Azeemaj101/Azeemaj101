@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
-- 🌱 I’m currently learning Competitive-coding, Web-Development, Web-Automation.
+- 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
 - 🥅 2021 Goals: ML and DL.
 
 <br/>
