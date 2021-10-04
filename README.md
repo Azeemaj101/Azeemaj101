@@ -85,7 +85,10 @@
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" />
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
+</p>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
