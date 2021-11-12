@@ -90,6 +90,10 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
 </p>
 
+## 🔎 Contribution Graph
+
+[![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/azeemaj101)
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
