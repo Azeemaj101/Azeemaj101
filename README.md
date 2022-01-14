@@ -1,5 +1,5 @@
 # Hi there, I'm Azeem 👋
-
+ 
 ## I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
@@ -70,36 +70,4 @@
 <br/>
 <br/>
 
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="http://azeemaj101.herokuapp.com/partials/Azeem-CV.pdf" target="_blank"><img src="https://img.shields.io/badge/-MY Resume-success?style=flat&logo=InfluxDB&logoColor=white"/></a>
-<a href="http://azeemaj101.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Azeemaj101@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/Azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1924C0?style=flat&logo=twitter&logoColor=white"/></a>
-
-</p>
-
-<br/>
-<br/>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
-</p>
-
-## 🔎 Contribution Graph
-
-[![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/azeemaj101)
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
-
-<p align="center">
-<a href="https://github.com/azeemaj101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeemaj101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azeemaj101&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemaj101&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
-</p>
+## 🤝🏻 &nbsp;Connect with 
