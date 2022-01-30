@@ -63,7 +63,10 @@
 </tr>
        <tr>
        <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="125" height="100">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="165" height="100">
+    </td>
+        <td align='center'>
+        <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="125" height="110">
     </td>
 </tr>
 </table>
