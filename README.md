@@ -75,7 +75,7 @@
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
 </table>
