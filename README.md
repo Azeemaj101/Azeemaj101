@@ -68,6 +68,15 @@
         <td align='center'>
         <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="125" height="110">
     </td>
+    <td align='center'>
+        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+    </td>
+    <td align='center'>
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
 </tr>
 </table>
 <br/>
