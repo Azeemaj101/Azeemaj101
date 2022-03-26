@@ -30,7 +30,7 @@
 <tr>
        <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" height="100" width="100">
-    </td>
+    </td> 
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="120" height="100">
     </td>
