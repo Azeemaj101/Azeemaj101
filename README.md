@@ -102,7 +102,7 @@
 </p>
 
 ## 🏆 Achievements
-<p align="center"> <a href="https://azeemaj101.herokuapp.com/"><img src="https://github-profile-trophy.vercel.app/?username=azeemaj101" alt="azeemaj101" /></a> </p>
+<p align="center"> <a href="https://azeemaj101.herokuapp.com/"><img src="https://github-profile-trophy.vercel.app/?username=azeemaj101" target="_blank" alt="azeemaj101" /></a> </p>
 
 ## 🔎 Contribution Graph
 
