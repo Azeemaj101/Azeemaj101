@@ -101,6 +101,9 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
 </p>
 
+## 🏆 Achievements
+<p align="center"> <a href="https://azeemaj101.herokuapp.com/"><img src="https://github-profile-trophy.vercel.app/?username=azeemaj101" alt="azeemaj101" /></a> </p>
+
 ## 🔎 Contribution Graph
 
 [![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/azeemaj101)
