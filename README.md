@@ -108,6 +108,7 @@
 
 [![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/azeemaj101)
 [![Snake animation](https://github.com/Azeemaj101/Azeemaj101/blob/main/github-contribution-grid-snake.svg)](https://github.com/azeemaj101)
+<!-- [![Snake animation](https://skyline.github.com/Azeemaj101/2021)](https://github.com/azeemaj101) -->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
