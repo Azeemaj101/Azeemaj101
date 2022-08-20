@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
 - 🥅 2022 Goals: MERN, ML and DL.
- 
+  
 <br/>
 
 <h2><i>💻 Tech Stack</i></h2>
