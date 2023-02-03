@@ -1,10 +1,10 @@
 # Hi there, I'm Azeem 👋
-   
+    
 ## I'm a Developer, Teacher and Researcher!  
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
 - 🥅 2023 Goals: MERN, ML and DL.
-     
+      
 <br/>
 
 <h2><i>💻 Tech Stack</i></h2>
