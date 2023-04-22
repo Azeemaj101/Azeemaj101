@@ -1,5 +1,5 @@
 # Hi there, I'm Azeem 👋
-              
+               
 ## I'm a Developer, Teacher and Researcher!  
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
